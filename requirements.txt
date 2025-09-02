@@ -3,4 +3,5 @@ nltk
 scikit-learn
 numpy
 pandas
-
+matplotlib
+tqdm
